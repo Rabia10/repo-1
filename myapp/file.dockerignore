@@ -1,0 +1,2 @@
+$ echo “Gemfile.lock” >> .dockerignore
+$ echo “Gemfile.lock” >> .gitignore
